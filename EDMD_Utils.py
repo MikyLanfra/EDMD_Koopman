@@ -177,4 +177,4 @@ class RBF_EDMD(EDMD):
         errs = [max((phi_th[i,:]-phi_pr[i,:])**2) for i in range(phi_th.shape[0])]
         errs = ["{:.5f}".format(np.real(error)) for error in errs]
         print(f"The Plotted Eigenfunctions are approximately linear, with the following Linearity Errors: {errs}")
-        return errs
+        # return errs
