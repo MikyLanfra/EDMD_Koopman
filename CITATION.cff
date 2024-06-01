@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: EDMD_Koopman
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Michele
+    family-names: Lanfranconi
+    email: michelelanfranconi@gmail.com
+repository-code: 'https://github.com/MikyLanfra/EDMD_Koopman'
+abstract: >-
+  Repository containing generic functions for the
+  implementation of the EDMD algorithm for the approximation
+  of the Koopman Operator.
+keywords:
+  - EDMD
+  - Koopman Operator
+license: MIT
