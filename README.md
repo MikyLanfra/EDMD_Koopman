@@ -10,3 +10,5 @@ To install the required libraries you can install all the requirements with the 
 ```console
 pip install -r requirements.txt
 ```
+
+The file `main.ipynb` contains an usage example, where the implemented functions are tested and compared to known results, on both a linear system and a nonlinear one (the Duffing Oscillator).
