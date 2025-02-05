@@ -1,4 +1,4 @@
-from Duffing_Utils import *
+from utils.Duffing_Utils import *
 import matplotlib.pyplot as plt
 from scipy.integrate import odeint
 

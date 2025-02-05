@@ -1,8 +1,8 @@
 import numpy.linalg as la
 from numpy.polynomial.hermite import hermval as he
 
-from Dynamical_System_Utils import *
-from RBF_Utils import *
+from utils.Dynamical_System_Utils import *
+from utils.RBF_Utils import *
 
 
 class EDMD():
